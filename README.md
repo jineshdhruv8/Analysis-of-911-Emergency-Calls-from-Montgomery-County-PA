@@ -13,13 +13,14 @@ Importance:
 3.  Help strategy makers anticipate the occurrences of emergencies and enable them to effectively handle the emergency by appropriate   allocation of resources
 
 Dataset:
-The dataset was collected from Kaggle & consist of 188752 entries
-The data is collected between 12/10/2015 to 04/13/2017
+1.  The dataset was collected from Kaggle & consist of 188752 entries
+2.  The data is collected between 12/10/2015 to 04/13/2017
 
-Programming Languages: Python
-Data Mining | ETL: Weka, Pentaho     
-Data Visualization: Tableau & Excel
-Database: MySQL
+Technology:
+1.  Programming Languages: Python
+2.  Data Mining | ETL: Weka, Pentaho     
+3.  Data Visualization: Tableau & Excel
+4.  Database: MySQL
 
 
 
